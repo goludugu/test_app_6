@@ -1,7 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First test done on repo for this project
 
 Things you may want to cover:
 
@@ -21,4 +19,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ....
+*
